@@ -52,6 +52,9 @@ VOICE_LIST = {
     # 粤语
     "zh-HK-HiuMaanNeural": "晓曼（粤语，女）",
     "zh-HK-WanLungNeural": "云龙（粤语，男）",
+    # 泰文
+    "th-TH-PremwadeeNeural": "Premwadee(泰语，女)",
+    "th-TH-NiwatNeural": "Niwat(泰语，男)"
 }
 
 # ============ 模型定义 ============
